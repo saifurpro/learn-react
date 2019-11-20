@@ -22,6 +22,8 @@ cd hello-world
 ```
 ```
 npm start
+```
 OR,
+```
 yarn start
 ```
