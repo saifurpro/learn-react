@@ -14,6 +14,10 @@ sudo npm install yarn -g
 ```
 sudo npm install -g create-react-app
 ```
+OR,
+```
+yarn global add create-react-app
+```
 ##### 3. Making React Hello-World App
 ```
 create-react-app hello-world
